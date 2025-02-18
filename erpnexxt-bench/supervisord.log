@@ -1,0 +1,8 @@
+2025-02-04 14:34:11,696 INFO Increased RLIMIT_NOFILE limit to 1024
+2025-02-04 14:34:13,766 INFO RPC interface 'supervisor' initialized
+2025-02-04 14:34:13,767 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2025-02-04 14:34:13,768 INFO RPC interface 'supervisor' initialized
+2025-02-04 14:34:13,768 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-02-04 14:34:13,771 INFO daemonizing the supervisord process
+2025-02-04 14:34:13,772 INFO supervisord started with pid 65191
+2025-02-05 19:31:48,903 WARN received SIGTERM indicating exit request

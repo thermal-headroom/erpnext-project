@@ -1,0 +1,99 @@
+2025-02-07 10:55:17,373 INFO ipython === bench console session ===
+2025-02-07 10:55:17,373 INFO ipython import frappe
+frappe.db.set_value("User", "aesantos@vivapanchocharcoal.com", "email", "easantos@vivapanchocharchoal.com")
+frappe.db.commit()
+2025-02-07 10:55:17,374 INFO ipython === session end ===
+2025-02-07 10:58:28,204 INFO ipython === bench console session ===
+2025-02-07 10:58:28,205 INFO ipython import frappe 
+2025-02-07 10:58:28,206 INFO ipython user = frappe.get_doc("User", "easantos@vivapanchocharchoal.com")
+user.set_password("Tojo")
+frappe.db.commit()
+2025-02-07 10:58:28,206 INFO ipython === session end ===
+2025-02-07 11:03:15,987 INFO ipython === bench console session ===
+2025-02-07 11:03:15,988 INFO ipython import frappe
+user = frappe.get_doc("User", "easantos@vivapanchocharchoal.com")
+user.set_password("Tojo")
+frappe.db.commit()
+2025-02-07 11:03:15,988 INFO ipython import frappe
+# Retrieve the user with the current (incorrect) email
+user = frappe.get_doc("User", "easantos@vivapanchocharchoal.com")
+
+# Update the email to the correct one
+user.email = "easantos@vivapanchocharcoal.com"
+
+# Set the password to "Tojo"
+user.set_password("Tojo")
+
+# Save the changes and commit to the database
+user.save()
+frappe.db.commit()
+2025-02-07 11:03:15,988 INFO ipython === session end ===
+2025-02-07 11:07:38,535 INFO ipython === bench console session ===
+2025-02-07 11:07:38,536 INFO ipython import frappe
+users = frappe.get_all("User", fields=["name", "email"])
+print(users)
+2025-02-07 11:07:38,536 INFO ipython import frappe
+
+# Replace 'current_email' with the exact email you found
+user = frappe.get_doc("User", "easantos@vivapanchocharchoal.com")
+user.email = "easantos@vivapanchocharcoal.com"
+user.set_password("Tojo")
+user.save()
+frappe.db.commit()
+2025-02-07 11:07:38,536 INFO ipython import frappe
+users = frappe.get_all("User", fields=["name", "email"])
+print(users)
+2025-02-07 11:07:38,536 INFO ipython import frappe
+
+# Get the user document using the primary key (name)
+user = frappe.get_doc("User", "aesantos@vivapanchocharcoal.com")
+
+# Update the email field to the correct one
+user.email = "easantos@vivapanchocharcoal.com"
+
+# Set the password to "Tojo"
+user.set_password("Tojo")
+
+# Save the changes and commit to the database
+user.save()
+frappe.db.commit()
+2025-02-07 11:07:38,536 INFO ipython === session end ===
+2025-02-07 11:10:22,128 INFO ipython === bench console session ===
+2025-02-07 11:10:22,128 INFO ipython import frappe
+from frappe.utils.password import get_password_hash
+
+# Retrieve the user by its primary key (name)
+user = frappe.get_doc("User", "aesantos@vivapanchocharcoal.com")
+
+# Update the email to the correct one (if needed)
+user.email = "easantos@vivapanchocharcoal.com"
+
+# Set the password to "Tojo" by hashing it first
+user.password = get_password_hash("Tojo")
+
+# Save the changes and commit them to the database
+user.save()
+frappe.db.commit()
+2025-02-07 11:10:22,129 INFO ipython import frappe
+frappe.db.set_value("User", "aesantos@vivapanchocharcoal.com", "email", "easantos@vivapanchocharcoal.com")
+frappe.db.commit()
+2025-02-07 11:10:22,129 INFO ipython === session end ===
+2025-02-07 11:16:54,430 INFO ipython === bench console session ===
+2025-02-07 11:16:54,431 INFO ipython import frappe
+users = frappe.get_all("User", fields=["name", "email"])
+print(users)
+2025-02-07 11:16:54,431 INFO ipython import frappe
+frappe.rename_doc("User", "aesantos@vivapanchocharcoal.com", "easantos@vivapanchocharcoal.com", merge=False)
+frappe.db.commit()
+2025-02-07 11:16:54,431 INFO ipython === session end ===
+2025-02-07 11:17:19,076 INFO ipython === bench console session ===
+2025-02-07 11:17:19,077 INFO ipython import frappe
+users = frappe.get_all("User", fields=["name", "email"])
+print(users)
+exit()
+2025-02-07 11:17:19,077 INFO ipython === session end ===
+2025-02-07 11:18:22,827 INFO ipython === bench console session ===
+2025-02-07 11:18:22,829 INFO ipython import frappe
+frappe.rename_doc("User", "aesantos@vivapanchocharcoal.com", "easantos@vivapanchocharcoal.com", force=True, merge=False)
+frappe.db.commit()
+2025-02-07 11:18:22,829 INFO ipython === session end ===
