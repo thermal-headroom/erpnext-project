@@ -184,3 +184,6 @@
 2025-02-17 18:53:21,342 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench clear-cache
 2025-02-17 18:55:31,091 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench --site erpnexxt.local clear-cache
 2025-02-18 06:00:05,405 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-18 18:00:41,409 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-20 00:00:08,823 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-20 18:00:09,107 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
