@@ -91,3 +91,66 @@ Form Dict: {}
 2025-02-17 18:51:35,167 ERROR frappe New Exception collected in error log
 Site: erpnexxt.local
 Form Dict: {}
+2025-02-27 01:37:03,322 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:03,477 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:38,513 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:38,632 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:51,889 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:52,028 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:59,316 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:37:59,447 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:38:11,428 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:38:11,560 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:38:19,436 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 01:38:19,574 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:26:52,153 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:26:52,297 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:40:14,095 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:40:14,231 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:40:45,112 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {}
+2025-02-27 09:56:45,735 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'easantos@vivapanchocharcoal.com'}
+2025-02-27 10:00:26,676 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {'user': 'easantos@vivapanchocharcoal.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2025-02-27 10:00:36,946 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {'user': 'easantos@vivapanchocharcoal.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2025-02-27 10:02:01,309 ERROR frappe New Exception collected in error log
+Site: erpnexxt.local
+Form Dict: {'user': 'easantos@vivapanchocharcoal.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}

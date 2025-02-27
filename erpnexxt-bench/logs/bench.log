@@ -187,3 +187,66 @@
 2025-02-18 18:00:41,409 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
 2025-02-20 00:00:08,823 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
 2025-02-20 18:00:09,107 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-21 18:00:05,625 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-22 00:00:01,657 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-23 06:00:01,964 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-24 00:00:02,617 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-24 06:00:04,757 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-25 00:00:02,344 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-25 06:00:08,060 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-25 18:02:07,557 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-26 18:00:02,327 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-27 00:03:28,596 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-27 01:36:38,374 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench start
+2025-02-27 01:36:38,584 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench serve --port 8000
+2025-02-27 01:36:38,585 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench schedule
+2025-02-27 01:36:38,587 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench watch
+2025-02-27 01:36:38,587 INFO /Users/easantos/erpnext_project/erpnexxt-env/bin/bench worker
+2025-02-27 01:39:42,832 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site yoursite.local migrate
+2025-02-27 06:00:00,532 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-27 09:26:33,339 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench start
+2025-02-27 09:26:34,945 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench schedule
+2025-02-27 09:26:34,945 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench watch
+2025-02-27 09:26:34,946 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench serve --port 8000
+2025-02-27 09:26:34,947 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench worker
+2025-02-27 09:35:32,290 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench start
+2025-02-27 09:35:32,574 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench serve --port 8000
+2025-02-27 09:35:32,575 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench schedule
+2025-02-27 09:35:32,575 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench watch
+2025-02-27 09:35:32,576 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench worker
+2025-02-27 09:38:15,557 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local migrate
+2025-02-27 09:38:27,406 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench start
+2025-02-27 09:38:27,671 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench watch
+2025-02-27 09:38:27,671 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench schedule
+2025-02-27 09:38:27,671 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench worker
+2025-02-27 09:38:27,672 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench serve --port 8000
+2025-02-27 09:38:33,014 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local migrate
+2025-02-27 09:40:24,030 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench start
+2025-02-27 09:40:24,298 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench worker
+2025-02-27 09:40:24,298 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench serve --port 8000
+2025-02-27 09:40:24,298 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench watch
+2025-02-27 09:40:24,299 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench schedule
+2025-02-27 09:42:33,513 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local set-maintenance-mode off
+2025-02-27 09:42:39,666 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench restart
+2025-02-27 09:42:39,675 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-02-27 09:42:40,336 INFO A newer version of bench is available: 5.22.8 → 5.23.0
+2025-02-27 09:44:27,104 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --version
+2025-02-27 09:48:45,638 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench log --tail
+2025-02-27 09:50:40,849 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --version
+2025-02-27 09:51:45,187 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench --site erpnexxt.local clear-cache
+2025-02-27 09:51:45,857 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench --site erpnexxt.local clear-website-cache
+2025-02-27 09:52:01,088 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench --version
+2025-02-27 09:52:15,124 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench update --reset
+2025-02-27 09:52:15,136 WARNING /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench update --reset executed with exit code 1
+2025-02-27 09:52:32,253 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench build
+2025-02-27 09:52:49,751 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench doctor
+2025-02-27 09:54:55,916 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench restart
+2025-02-27 09:54:55,924 WARNING restart failed: Couldn't find supervisorctl in PATH
+2025-02-27 09:54:56,169 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench start
+2025-02-27 09:54:56,571 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench schedule
+2025-02-27 09:54:56,571 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench serve --port 8000
+2025-02-27 09:54:56,572 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench watch
+2025-02-27 09:54:56,573 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench worker
+2025-02-27 09:58:05,729 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local execute frappe.utils.password.get_decrypted_password --args Administrator
+2025-02-27 09:58:53,119 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local set-admin-password Viva_eas
+2025-02-27 12:00:15,320 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
