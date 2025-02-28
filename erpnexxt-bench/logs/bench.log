@@ -250,3 +250,4 @@
 2025-02-27 09:58:05,729 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local execute frappe.utils.password.get_decrypted_password --args Administrator
 2025-02-27 09:58:53,119 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local set-admin-password Viva_eas
 2025-02-27 12:00:15,320 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-27 18:00:28,968 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
