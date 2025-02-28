@@ -251,3 +251,8 @@
 2025-02-27 09:58:53,119 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --site erpnexxt.local set-admin-password Viva_eas
 2025-02-27 12:00:15,320 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
 2025-02-27 18:00:28,968 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-02-27 19:50:35,352 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench start
+2025-02-27 19:50:35,560 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench watch
+2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench serve --port 8000
+2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench schedule
+2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench worker
