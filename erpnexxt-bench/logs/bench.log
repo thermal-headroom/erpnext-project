@@ -261,3 +261,26 @@
 2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench watch
 2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench schedule
 2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench serve --port 8000
+2025-03-01 00:00:04,029 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-01 12:00:23,392 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-03 18:00:06,235 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-04 00:00:06,472 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-05 00:00:06,895 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-05 12:00:06,630 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-06 00:00:02,926 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-07 12:00:07,343 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-08 00:00:05,751 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-08 18:00:04,435 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-09 00:00:05,087 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-09 18:00:03,734 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-10 00:00:08,786 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-10 00:00:00,916 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-11 00:00:01,091 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-11 06:00:07,135 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-11 12:00:02,748 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-12 00:00:09,239 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-12 12:00:37,068 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-13 00:00:04,111 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-14 12:05:34,472 INFO /Library/Frameworks/Python.framework/Versions/3.12/bin/bench --verbose --site all backup
+2025-03-14 15:15:13,030 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench update
+2025-03-14 15:15:13,043 WARNING /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench update executed with exit code 1
