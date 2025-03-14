@@ -256,3 +256,8 @@
 2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench serve --port 8000
 2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench schedule
 2025-02-27 19:50:35,561 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench worker
+2025-02-28 14:20:42,206 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench start
+2025-02-28 14:20:42,412 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench worker
+2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench watch
+2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench schedule
+2025-02-28 14:20:42,413 INFO /Users/easantos/erpnext_project/erpnexxt-bench/env/bin/bench serve --port 8000
